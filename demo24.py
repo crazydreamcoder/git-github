@@ -1,1 +1,1 @@
-print("This is demo 24: first branch first file")
+print("This is demo 24: first branch first file, modified in first branch")
